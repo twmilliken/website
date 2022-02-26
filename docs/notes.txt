@@ -1,0 +1,6 @@
+What do I want on the website?
+	What do I want to project to the world?
+What stack to use?
+What do I like about other websites?
+	https://www.themuse.com/advice/the-35-best-personal-websites-weve-ever-seen
+What would host the website? A rPI?
